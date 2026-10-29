@@ -64,5 +64,192 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ConfigHub is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by crane-venture-partners) and added to the network as a stub for full-pipeline profiling.
-- https://www.confighub.com/
+ConfigHub provides a configuration-as-data platform that centralizes, validates, and manages infrastructure configuration across environments. It enables teams to treat configuration like code, offering versioned, searchable, and policy‑enforced config stores that integrate with GitOps workflows, Kubernetes, and CI/CD pipelines. The service includes tools for promoting changes, auditing, and tracing configuration lineage, helping organizations reduce drift and improve operational reliability.
+
+**Areas:** Company · Configuration · DevOps · Kubernetes · GitOps · Platform
+
+## ConfigHub on APIs.io
+
+Everything profiled for ConfigHub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/confighub/](https://apis.io/providers/confighub/)** — or go straight to one of the APIs or properties below.
+
+### APIs (42)
+
+- [ConfigHub Attest API](https://apis.io/apis/confighub/confighub-attest-api/) — The Attest API from ConfigHub — 1 operation(s) for attest.
+- [ConfigHub Attestation API](https://apis.io/apis/confighub/confighub-attestation-api/) — The Attestation API from ConfigHub — 3 operation(s) for attestation.
+- [ConfigHub Attribute API](https://apis.io/apis/confighub/confighub-attribute-api/) — The Attribute API from ConfigHub — 5 operation(s) for attribute.
+- [ConfigHub Bridge Worker API](https://apis.io/apis/confighub/confighub-bridgeworker-api/) — The BridgeWorker API from ConfigHub — 5 operation(s) for bridgeworker.
+- [ConfigHub Bridge Worker Status API](https://apis.io/apis/confighub/confighub-bridgeworkerstatus-api/) — The BridgeWorkerStatus API from ConfigHub — 2 operation(s) for bridgeworkerstatus.
+- [ConfigHub Browser Session API](https://apis.io/apis/confighub/confighub-browsersession-api/) — The BrowserSession API from ConfigHub — 1 operation(s) for browsersession.
+- [ConfigHub Change Order API](https://apis.io/apis/confighub/confighub-changeorder-api/) — The ChangeOrder API from ConfigHub — 5 operation(s) for changeorder.
+- [ConfigHub Change Set API](https://apis.io/apis/confighub/confighub-changeset-api/) — The ChangeSet API from ConfigHub — 4 operation(s) for changeset.
+- [ConfigHub Change Workflow API](https://apis.io/apis/confighub/confighub-changeworkflow-api/) — The ChangeWorkflow API from ConfigHub — 5 operation(s) for changeworkflow.
+- [ConfigHub Channel API](https://apis.io/apis/confighub/confighub-channel-api/) — The Channel API from ConfigHub — 7 operation(s) for channel.
+- [ConfigHub Command Run API](https://apis.io/apis/confighub/confighub-commandrun-api/) — The CommandRun API from ConfigHub — 5 operation(s) for commandrun.
+- [ConfigHub Component API](https://apis.io/apis/confighub/confighub-component-api/) — The Component API from ConfigHub — 4 operation(s) for component.
+- [ConfigHub Declared Command API](https://apis.io/apis/confighub/confighub-declaredcommand-api/) — The DeclaredCommand API from ConfigHub — 2 operation(s) for declaredcommand.
+- [ConfigHub Demote API](https://apis.io/apis/confighub/confighub-demote-api/) — The Demote API from ConfigHub — 1 operation(s) for demote.
+- [ConfigHub Filter API](https://apis.io/apis/confighub/confighub-filter-api/) — The Filter API from ConfigHub — 5 operation(s) for filter.
+- [ConfigHub Function API](https://apis.io/apis/confighub/confighub-function-api/) — The Function API from ConfigHub — 4 operation(s) for function.
+- [ConfigHub Group API](https://apis.io/apis/confighub/confighub-group-api/) — The Group API from ConfigHub — 3 operation(s) for group.
+- [ConfigHub Invocation API](https://apis.io/apis/confighub/confighub-invocation-api/) — The Invocation API from ConfigHub — 5 operation(s) for invocation.
+- [ConfigHub Link API](https://apis.io/apis/confighub/confighub-link-api/) — The Link API from ConfigHub — 4 operation(s) for link.
+- [ConfigHub Meta API](https://apis.io/apis/confighub/confighub-meta-api/) — The Meta API from ConfigHub — 1 operation(s) for meta.
+- [ConfigHub Mutation API](https://apis.io/apis/confighub/confighub-mutation-api/) — The Mutation API from ConfigHub — 2 operation(s) for mutation.
+- [ConfigHub O Auth Client API](https://apis.io/apis/confighub/confighub-oauthclient-api/) — The OAuthClient API from ConfigHub — 2 operation(s) for oauthclient.
+- [ConfigHub Organization API](https://apis.io/apis/confighub/confighub-organization-api/) — The Organization API from ConfigHub — 2 operation(s) for organization.
+- [ConfigHub Organization Member API](https://apis.io/apis/confighub/confighub-organizationmember-api/) — The OrganizationMember API from ConfigHub — 2 operation(s) for organizationmember.
+- [ConfigHub Promote API](https://apis.io/apis/confighub/confighub-promote-api/) — The Promote API from ConfigHub — 1 operation(s) for promote.
+- [ConfigHub Queued Operation API](https://apis.io/apis/confighub/confighub-queuedoperation-api/) — The QueuedOperation API from ConfigHub — 3 operation(s) for queuedoperation.
+- [ConfigHub Release API](https://apis.io/apis/confighub/confighub-release-api/) — The Release API from ConfigHub — 5 operation(s) for release.
+- [ConfigHub Resource API](https://apis.io/apis/confighub/confighub-resource-api/) — The Resource API from ConfigHub — 3 operation(s) for resource.
+- [ConfigHub Review Comment API](https://apis.io/apis/confighub/confighub-reviewcomment-api/) — The ReviewComment API from ConfigHub — 3 operation(s) for reviewcomment.
+- [ConfigHub Revision API](https://apis.io/apis/confighub/confighub-revision-api/) — The Revision API from ConfigHub — 7 operation(s) for revision.
+- [ConfigHub Space API](https://apis.io/apis/confighub/confighub-space-api/) — The Space API from ConfigHub — 4 operation(s) for space.
+- [ConfigHub Tag API](https://apis.io/apis/confighub/confighub-tag-api/) — The Tag API from ConfigHub — 4 operation(s) for tag.
+- [ConfigHub Target API](https://apis.io/apis/confighub/confighub-target-api/) — The Target API from ConfigHub — 5 operation(s) for target.
+- [ConfigHub Trigger API](https://apis.io/apis/confighub/confighub-trigger-api/) — The Trigger API from ConfigHub — 5 operation(s) for trigger.
+- [ConfigHub Unit API](https://apis.io/apis/confighub/confighub-unit-api/) — The Unit API from ConfigHub — 16 operation(s) for unit.
+- [ConfigHub Unit Action API](https://apis.io/apis/confighub/confighub-unitaction-api/) — The UnitAction API from ConfigHub — 2 operation(s) for unitaction.
+- [ConfigHub Unit Event API](https://apis.io/apis/confighub/confighub-unitevent-api/) — The UnitEvent API from ConfigHub — 3 operation(s) for unitevent.
+- [ConfigHub Upload API](https://apis.io/apis/confighub/confighub-upload-api/) — The Upload API from ConfigHub — 1 operation(s) for upload.
+- [ConfigHub User API](https://apis.io/apis/confighub/confighub-user-api/) — The User API from ConfigHub — 4 operation(s) for user.
+- [ConfigHub View API](https://apis.io/apis/confighub/confighub-view-api/) — The View API from ConfigHub — 5 operation(s) for view.
+- [ConfigHub Service Account API](https://apis.io/apis/confighub/confighub-service-account-api/) — The Service Account API from ConfigHub — 8 operation(s) for service account.
+- [ConfigHub User Info API](https://apis.io/apis/confighub/confighub-user-info-api/) — The User Info API from ConfigHub — 1 operation(s) for user info.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Confighub Agentic Access](https://apis.io/agentic-access/confighub/confighub-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ChangeOrder](https://apis.io/schemas/confighub/confighub-change-order/)
+- [Link](https://apis.io/schemas/confighub/confighub-link/)
+- [Space](https://apis.io/schemas/confighub/confighub-space/)
+- [Target](https://apis.io/schemas/confighub/confighub-target/)
+- [Trigger](https://apis.io/schemas/confighub/confighub-trigger/)
+- [Unit](https://apis.io/schemas/confighub/confighub-unit/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Confighub Context](https://apis.io/jsonld/confighub/confighub-context/)
+
+#### Overlays (2)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Confighub Openapi Json Overlay](https://apis.io/overlays/confighub/confighub-openapi-json-overlay/)
+- [Confighub Openapi Yaml Overlay](https://apis.io/overlays/confighub/confighub-openapi-yaml-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ConfigHub API Rules](https://apis.io/rules/confighub/confighub-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Confighub Authentication](https://apis.io/security/confighub/confighub-authentication/)
+- [Confighub Domain Security](https://apis.io/security/confighub/confighub-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Confighub Scopes](https://apis.io/scopes/confighub/confighub-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Confighub Plans Pricing](https://apis.io/plans/confighub/confighub-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Confighub Rate Limits](https://apis.io/rate-limits/confighub/confighub-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.confighub.com/)
+- [Documentation](https://docs.confighub.com/)
+- [Getting started](https://docs.confighub.com/get-started/setup/)
+- [API reference](https://docs.confighub.com/developer/api-reference/tag/)
+- [Pricing](https://confighub.com/pricing)
+- [Sign up](https://confighub.com/sign-up)
+- [Support](https://confighub.com/contact)
+- [Changelog](https://docs.confighub.com/guide/releases/)
+- [Blog](https://confighub.com/blog)
+- [Terms of service](https://confighub.com/tos)
+- [Privacy policy](https://confighub.com/privacy)
+- [GitHub](https://github.com/confighub)
+
+## API Evangelist rating
+
+**Kin Score 61.7** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 59.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 77.9 |
+| Access clarity | 44.7 |
+
+**Agent readiness 43.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/confighub/](https://apis.io/providers/confighub/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ConfigHub: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/confighub/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
